@@ -60,7 +60,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Keterangan"
+                    android:text="Nama"
                     android:textColor="@color/black"
                     android:textSize="14sp" />
 
@@ -69,7 +69,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:backgroundTint="@color/black"
-                    android:hint="Masukan keterangan"
+                    android:hint="Masukan nama"
                     android:imeOptions="actionNext"
                     android:inputType="textPersonName"
                     android:maxLines="1"

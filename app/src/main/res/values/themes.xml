@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.UnikornKasRT" parent="Base.Theme.UnikornKasRT" />
+    <style name="CustomTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+    </style>
 </resources>
